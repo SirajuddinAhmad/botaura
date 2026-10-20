@@ -1,0 +1,5 @@
+# Masukkan private key Anda di sini (satu per baris)
+# Format: 0x... atau tanpa 0x
+# Contoh:
+# 0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef
+# 0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890

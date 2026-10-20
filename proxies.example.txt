@@ -1,0 +1,4 @@
+# Format proxy per baris (opsional, jika ingin menggunakan proxy):
+# http://user:password@ip:port
+# http://ip:port
+# socks5://user:password@ip:port
